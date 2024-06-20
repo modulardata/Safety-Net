@@ -1,0 +1,14 @@
+type: hyperskill
+title: Safety Net
+language: English
+summary: "<p>Git is a version control system that helps multiple developers collaborate\
+  \ on a project. It tracks changes made to the project's files over time and allows\
+  \ you to revert to a previous snapshot if something goes wrong. Git's branching\
+  \ and merging capabilities help you work on new features or bug fixes, experiment\
+  \ safely, and integrate changes smoothly. This project offers you a chance to work\
+  \ and prepare your branches.</p><br/><br/>Learn more at <a href=\"https://hyperskill.org/projects/395?utm_source=ide&utm_medium=ide&utm_campaign=ide&utm_content=project-card\"\
+  >https://hyperskill.org/projects/395</a>"
+programming_language: Python
+content:
+  - Safety Net
+mode: Study

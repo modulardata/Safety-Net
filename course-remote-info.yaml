@@ -1,0 +1,81 @@
+hyperskill_project:
+  id: 395
+  ide_files: https://cogniterra.org/media/attachments/lesson/33472/additional_files.json
+  is_template_based: false
+  use_ide: true
+update_date: "Thu, 01 Jan 1970 00:00:00 UTC"
+stages:
+  - id: 2334
+    step: 37681
+    is_completed: false
+  - id: 2335
+    step: 37682
+    is_completed: false
+  - id: 2336
+    step: 37683
+    is_completed: false
+  - id: 2337
+    step: 37684
+    is_completed: false
+  - id: 2338
+    step: 37685
+    is_completed: false
+  - id: 2339
+    step: 37686
+    is_completed: false
+  - id: 2340
+    step: 37687
+    is_completed: false
+topics:
+  0:
+    - title: Starting with GitHub
+      theory_id: 4802
+    - title: Command line overview
+      theory_id: 8977
+    - title: Parameters and options
+      theory_id: 9746
+    - title: HTTP URL
+      theory_id: 6740
+    - title: Starting with git
+      theory_id: 10894
+    - title: Local repository
+      theory_id: 10901
+    - title: Working with remote repository
+      theory_id: 12299
+  1:
+    - title: Fork and pull request
+      theory_id: 4803
+    - title: Local work
+      theory_id: 4856
+    - title: Git branches
+      theory_id: 11189
+    - title: Git internal structure
+      theory_id: 11461
+    - title: Conventional Commits and commitlint
+      theory_id: 26292
+  2:
+    - title: Introduction to Gitflow
+      theory_id: 11445
+    - title: Gitflow auxiliary branches
+      theory_id: 11453
+    - title: Git rebase
+      theory_id: 11541
+    - title: Libraries
+      theory_id: 8504
+    - title: Semantic versioning
+      theory_id: 19244
+  3:
+    - title: Git undo/reset
+      theory_id: 29842
+    - title: Cherry-picking and checkout options
+      theory_id: 30351
+  4:
+    - title: Introduction to software development models
+      theory_id: 11694
+    - title: Software lifecycle
+      theory_id: 11915
+  6:
+    - title: Publishing your project on GitHub
+      theory_id: 30945
+    - title: What are bugs
+      theory_id: 5504
